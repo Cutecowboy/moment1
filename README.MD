@@ -36,7 +36,8 @@ Gratis-konton räcker utmärkt för uppgiften.
 Skapa ett nytt remote repository och projekt på Github, antingen tomt (som bara består av en README.md-fil) eller genom att klona ett existerande projekt. Glöm ej att göra detta publikt.
 Skapa README.md-filen med [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) och ge en kort beskrivning av uppgiften/repositoriet (formatera med överskrifter, listor och så vidare).
 
-Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
+**Q:** Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
+**A:** Genom att gå in i github repositoryn genom [länken](https://github.com/Cutecowboy/moment1) kan man trycka på den gröna rutan som heter "code", här presenteras en HTTPS länk till github repot som kan kopieras för att användas på git terminalen tillsammans med kommandot: `$ git clone https://github.com/Cutecowboy/moment1.git` som hämtar hem alla filer på repositoryn till din lokala repo.
 
 **2.2 - Skapa personlig README-fil för din profil**
 
